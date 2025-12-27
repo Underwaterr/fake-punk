@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Tyler",
+    "avatarUrl": "./avatar-tyler.jpg",
+    "pronouns": "they/them",
+    "status": null,
+    "bio": null, 
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "name": "Blue",
+    "avatarUrl": "./avatar-blue.jpg",
+    "pronouns": "they/she",
+    "status": "ʕ •ᴥ•ʔ 🌈",
+    "bio": null,
+    "authorId": 2
+  },
+  {
+    "id": 3,
+    "name": "Theo",
+    "avatarUrl": "./avatar-theo.jpg",
+    "pronouns": null,
+    "status": "I’ve hit such specific levels of boredom compound with exposure to heterosexual culture from family vacation that I am experiencing symptoms indistinguishable from rabies",
+    "bio": "Person that makes your music. Audio Engineer/social media manager at Headroom Studios",
+    "authorId": 3
+  }
+]
