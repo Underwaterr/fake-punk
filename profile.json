@@ -25,5 +25,14 @@
     "status": "I’ve hit such specific levels of boredom compound with exposure to heterosexual culture from family vacation that I am experiencing symptoms indistinguishable from rabies",
     "bio": "Person that makes your music. Audio Engineer/social media manager at Headroom Studios",
     "authorId": 3
+  },
+  {
+    "id": 4,
+    "name": "Evil Tyler",
+    "avatarUrl": "./avatar-tyler.jpg",
+    "pronouns": "xe/xem",
+    "status": null,
+    "bio": null, 
+    "authorId": 1
   }
 ]
